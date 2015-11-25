@@ -1,0 +1,14 @@
+{
+    "name": "scipper/dialoger",
+    "type": "tool",
+    "description": "A tool for dynamic jQuery dialog generation.",
+    "keywords": ["scipper","dialog","jquery"],
+    "homepage": "http://www.myscipper.de",
+    "license": "GNU GPLv2",
+    "authors": [
+        {"name": "Steffen Kowalski", "email": "sk@traiwi.de"}
+    ],
+    "require": {
+        "jquery": ">=1.10"
+    }
+}
